@@ -42,9 +42,9 @@
     <br />
     <a href="https://todo-application.greywoulf1.repl.co/login/">View Demo</a>
     ·
-    <a href="https://github.com/greywoulf/Todo-Application/issues">Report Bug</a>
+    <a href="https://github.com/Citizens-All-Star-Team/Todo-Application/issues">Report Bug</a>
     ·
-    <a href="https://github.com/greywoulf/Todo-Application/issues">Request Feature</a>
+    <a href="https://github.com/Citizens-All-Star-Team/Todo-Application/issues">Request Feature</a>
   </p>
 </div>
 
@@ -163,7 +163,7 @@ This project is created as a use for a Todo List.
 - [ ] Make the application more mobile friendly
 - [ ] Make the application more secure in terms of passwords and usernames
 
-See the [open issues](https://github.com/greywoulf/Todo-Application/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Citizens-All-Star-Team/Todo-Application/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -201,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- Your Name - [Grey Woulf](https://twitter.com/twitter_handle) - email@email_client.com -->
 
-Project Link: [https://github.com/greywoulf/Todo-Application](https://github.com/greywoulf/Todo-Application)
+Project Link: [https://github.com/Citizens-All-Star-Team/Todo-Application](https://github.com/Citizens-All-Star-Team/Todo-Application)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -211,37 +211,37 @@ Project Link: [https://github.com/greywoulf/Todo-Application](https://github.com
 
 <!-- GitHub Stats  -->
 
-## Github Stats
+<!-- ## Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=greywoulf)](https://github.com/greywoulf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greywoulf&layout=compact)](https://github.com/greywoulf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greywoulf&layout=compact)](https://github.com/greywoulf) -->
 
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 For inspiration, images and code snippets used in the creation of this blog website.
 
 * [Gokulan CV](https://medium.com/@nsew1999gokulcvan/create-a-to-do-application-with-user-authentication-and-pagination-in-django-be4a797b20e6)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/greywoulf/Todo-Application.svg?style=for-the-badge
-[contributors-url]: https://github.com/greywoulf/Todo-Application/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/greywoulf/Todo-Application.svg?style=for-the-badge
-[forks-url]: https://github.com/greywoulf/Todo-Application/network/members
-[stars-shield]: https://img.shields.io/github/stars/greywoulf/Todo-Application.svg?style=for-the-badge
-[stars-url]: https://github.com/greywoulf/Todo-Application/stargazers
-[issues-shield]: https://img.shields.io/github/issues/greywoulf/Todo-Application.svg?style=for-the-badge
-[issues-url]: https://github.com/greywoulf/Todo-Application/issues
-[license-shield]: https://img.shields.io/github/license/greywoulf/Todo-Application.svg?style=for-the-badge
-[license-url]: https://github.com/greywoulf/greywoulf.github.io/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Citizens-All-Star-Team/Todo-Application.svg?style=for-the-badge
+[contributors-url]: https://github.com/Citizens-All-Star-Team/Todo-Application/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Citizens-All-Star-Team/Todo-Application.svg?style=for-the-badge
+[forks-url]: https://github.com/Citizens-All-Star-Team/Todo-Application/network/members
+[stars-shield]: https://img.shields.io/github/stars/Citizens-All-Star-Team/Todo-Application.svg?style=for-the-badge
+[stars-url]: https://github.com/Citizens-All-Star-Team/Todo-Application/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Citizens-All-Star-Team/Todo-Application.svg?style=for-the-badge
+[issues-url]: https://github.com/Citizens-All-Star-Team/Todo-Application/issues
+[license-shield]: https://img.shields.io/github/license/Citizens-All-Star-Team/Todo-Application.svg?style=for-the-badge
+[license-url]: https://github.com/Citizens-All-Star-Team/Todo-Application/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
