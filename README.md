@@ -206,6 +206,19 @@ Project Link: [https://github.com/Citizens-All-Star-Team/Todo-Application](https
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+# Meet the Team
+
+### Bri Lloyd
+[![Bri Lloyd](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GreyWoulf)
+
+### Ben Cabrera
+[![Ben Cabrera](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bcabrer1)
+
+### Harthon
+[![Harthon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harthon10)
+
+### Rehaana Cruz
+[![Rehaana Cruz](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midnightcruz)
 
 
 
